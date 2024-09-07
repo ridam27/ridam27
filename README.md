@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Collaborative Portfolio Website.<br>🌐 Watch the Project live at www.eclipseportfolio.netlify.app<br>👯 Currently pursuing B. Tech. in G H Raisoni University, Amravati.<br>📫 How to reach me : ridamsatkar1@gmail.com<br>🌱 I’m currently learning Frontend Development.<br>💬 Ask me about building interactive and unique websites.<br>⚡ Fun fact : I love turning coffee☕ into code and bugs into features.
+🔭 I’m currently working on a Collaborative Portfolio Website.<br>🌐 Watch the Project live at https://eclipseportfolio.netlify.app <br>👯 Currently pursuing B. Tech. in G H Raisoni University, Amravati.<br>📫 How to reach me : ridamsatkar1@gmail.com<br>🌱 I’m currently learning Frontend Development.<br>💬 Ask me about building interactive and unique websites.<br>⚡ Fun fact : I love turning coffee☕ into code and bugs into features.
 
 
 ## 🌐 Socials:
